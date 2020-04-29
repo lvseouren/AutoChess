@@ -1,0 +1,11 @@
+Temp/
+obj/
+Library/
+Logs/Packages-Update.log
+.vs/AutoChess/v16/.suo
+.vs/AutoChess/v15/Server/sqlite3/storage.ide-wal
+.vs/AutoChess/v15/Server/sqlite3/storage.ide-shm
+.vs/AutoChess/v15/Server/sqlite3/storage.ide
+.vs/AutoChess/v15/Server/sqlite3/db.lock
+.vs/AutoChess/v15/.suo
+.vs/AutoChess/DesignTimeBuild/.dtbcache
